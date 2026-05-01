@@ -1,0 +1,6 @@
+sentiment,avg_pnl,median_pnl,avg_win_rate,obs
+Extreme Fear,4619.4391,218.3774,0.6124,160
+Fear,5328.8182,107.8925,0.6092,630
+Neutral,3438.6188,167.5517,0.6135,376
+Greed,3318.1007,158.2149,0.5849,648
+Extreme Greed,5161.9226,418.3199,0.6534,526
